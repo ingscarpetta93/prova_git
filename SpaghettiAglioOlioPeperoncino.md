@@ -9,3 +9,4 @@ Uno dei miei piatti prefetiti, lo mangerei anche a mezzanotte
 * olio
 * peperoncino
 * sale
+* prezzemolo
