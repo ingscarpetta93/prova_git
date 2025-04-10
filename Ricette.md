@@ -7,4 +7,4 @@ Questo archivio contiene tutte le ricette preferite di Fabrizio
 * Risottom ai funghi
 * Spaghetti alla carbonara
 * Minestrone di verdure
-
+* Salmone al cartoccio
